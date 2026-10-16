@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Supply-Chain-Security/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Supply-Chain-Security?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Supply-Chain-Security/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Supply-Chain-Security?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Supply-Chain-Security/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Supply-Chain-Security?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Supply-Chain-Security/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Supply-Chain-Security/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -67,7 +67,7 @@ The table below compiles leading commercial platforms, **sorted in descending or
 
 ## 🔓 Top Open-Source Supply Chain Security Projects
 
-Community-driven, open-source utilities for vulnerability analysis, SBOM authoring, artifact signing, and pipeline attestation. **Sorted in descending order by GitHub Star count**.
+Community-driven, open-source utilities for vulnerability analysis, SBOM authoring, artifact signing, and pipeline attestation. **Sorted in descending order by GitHub Stars_Count**.
 
 1. ### 🔍 [Trivy](https://github.com/aquasecurity/trivy) [![Stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white)](https://github.com/aquasecurity/trivy/stargazers)
    - **Stars:** `38,400+` | **License:** Apache-2.0 | **Primary Language:** Go
@@ -188,7 +188,7 @@ Contributions are welcome from security researchers, DevSecOps practitioners, an
 1. 🍴 **Fork the repository** to your GitHub account.
 2. 🌿 **Create a descriptive feature branch**: `git checkout -b add-tool-name`.
 3. 📝 **Add or update an entry** in `README.md`:
-   - Follow the established formatting conventions (table for SaaS with specific pricing and limits; numbered list for Open-Source with active shields star badges).
+   - Follow the established formatting conventions (table for SaaS with specific pricing and limits; numbered list for Open-Source with active shields Stars_Badges).
    - Ensure descriptions are factual, neutral, and accompanied by official documentation links.
 4. 🧪 **Validate links** and ensure formatting passes standard markdown linters.
 5. 🚀 **Submit a Pull Request** with a clear explanation of why the tool qualifies for inclusion.
